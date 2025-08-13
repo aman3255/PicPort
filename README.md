@@ -1,4 +1,5 @@
-# PicPort - Flutter Mobile Application
+# PicPort - Flutter Mobile Application  
+*Developed for Findoc Financial Services Group Assignment*  
 
 A complete Flutter mobile application with login and home screens using BLoC pattern for state management.
 
@@ -180,18 +181,3 @@ flutter test
    - Check `android/app/build.gradle` configuration
    - Verify signing configuration
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For support and questions, please open an issue in the repository. 
